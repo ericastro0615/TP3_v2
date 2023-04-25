@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Activo {
+public interface Activo {
+    public void haceraportes();
 }
